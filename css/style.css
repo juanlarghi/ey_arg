@@ -176,12 +176,6 @@ header nav ul {
     text-align: right;
 }
 
-@media(max-width: 1050px){
-    #hiddenslider{
-        
-    }
-}
-
 .buttons {
     background-color: rgb(255, 242, 17);
 }
